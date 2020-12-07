@@ -11,4 +11,4 @@ My current research interests include Question Answering and Knowledge Graph.
 
 How to reach me: [E-mail](mailto:yhshu@smail.nju.edu.cn), [Homepage](https://sites.google.com/view/yhshu)
 
-![Yiheng Shu's github stats](https://github-readme-stats.vercel.app/api?username=lzw429&count_private=true&theme=vue-dark)
+![Yiheng Shu's github stats](https://github-readme-stats.vercel.app/api?username=lzw429&count_private=true&show_icons=true)
