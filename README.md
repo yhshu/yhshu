@@ -5,10 +5,10 @@
 
 
 -->
-I'm Yiheng Shu, a graduate student in State Key Laboratory for Novel Software Technology at Nanjing University, China, since 2020. 
+I'm Yiheng Shu, a graduate student in Department of Computer Science and Technology, Nanjing University, China, since 2020. 
 
 My current research interests include Question Answering and Knowledge Graph.
 
-How to reach me: [E-mail](mailto:yhshu@smail.nju.edu.cn), [Homepage](https://sites.google.com/view/yhshu)
+How to reach me: [E-mail](mailto:yhshu@smail.nju.edu.cn), [Homepage](https://yihengshu.github.io)
 
 ![Yiheng Shu's github stats](https://github-readme-stats.vercel.app/api?username=lzw429&count_private=true&show_icons=true)
