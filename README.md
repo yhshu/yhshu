@@ -6,7 +6,6 @@
 
 -->
 I'm Yiheng Shu, a graduate student in Department of Computer Science and Technology, Nanjing University, China, since 2020. 
-
 My current research interests include **Question Answering** and **Knowledge Graph**.
 
 How to reach me: [E-mail](mailto:yhshu@smail.nju.edu.cn), [Homepage](https://yihengshu.github.io)
