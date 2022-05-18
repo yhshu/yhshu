@@ -9,5 +9,3 @@ I'm Yiheng Shu, a graduate student in Department of Computer Science and Technol
 My current research interests include **Question Answering** and **Knowledge Graph**.
 
 How to reach me: [E-mail](mailto:yhshu@smail.nju.edu.cn), [Homepage](https://yihengshu.github.io)
-
-![Yiheng Shu's github stats](https://github-readme-stats.vercel.app/api?username=yhshu&count_private=true&show_icons=true)
