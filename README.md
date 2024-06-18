@@ -5,6 +5,6 @@
 
 
 -->
-I'm Yiheng Shu, a PhD student at The Ohio State University since 2023.
+I'm Yiheng Shu, a PhD student at The Ohio State University since 2023. My research interests include language agents and retrieval-augmented generation (RAG): 1) how to ground large language models to real-world environments, and 2) how to retrieve from environments and augment large language models.
 
-How to reach me: [E-mail](mailto:yhshu@smail.nju.edu.cn), [Homepage](https://yihengshu.github.io)
+How to reach me: [E-mail](mailto:shuyiheng29@163.com), [Homepage](https://yihengshu.github.io)
